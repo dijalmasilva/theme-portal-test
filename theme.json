@@ -1,13 +1,13 @@
 {
     "palette": {
         "primary": {
-            "main": "#194294"
+            "main": "#E5775F"
         },
         "secondary": {
-            "main": "#0062FF"
+            "main": "#CDCDCD"
         },
         "background": {
-            "default": "#F4F4F4"
+            "default": "3D3636"
         },
         "text": {
             "primary": "#242424",
@@ -28,5 +28,5 @@
             "letterSpacing": "0.25px"
         }
     },
-    "mainLogo": "/images/old/logo_azul.png"
+    "mainLogo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinpng.com%2Fpicture%2FiwommhT_google-search-is-a-commonly-used-tool-for%2F&psig=AOvVaw1vFCVeA8xsPzflv3Vap3B1&ust=1591132111800000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiUw__C4ekCFQAAAAAdAAAAABAD"
 }
