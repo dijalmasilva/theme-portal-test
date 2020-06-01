@@ -1,0 +1,32 @@
+{
+    "palette": {
+        "primary": {
+            "main": "#194294"
+        },
+        "secondary": {
+            "main": "#0062FF"
+        },
+        "background": {
+            "default": "#F4F4F4"
+        },
+        "text": {
+            "primary": "#242424",
+            "secondary": "#194294",
+            "hint": "#0062FF",
+            "disabled": "#CDCDCD"
+        },
+
+    },
+    "typography": {
+        "fontFamily": [
+            "Roboto",
+            "sans-serif"
+        ],
+        "h1": {
+            "fontStyle": "normal",
+            "fontWeight": "900",
+            "letterSpacing": "0.25px"
+        }
+    },
+    "mainLogo": "/images/old/logo_azul.png"
+}
