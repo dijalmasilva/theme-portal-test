@@ -10,9 +10,9 @@
          "default":"#323030"
       },
       "text":{
-         "primary":"#242424",
+         "primary":"#FFFFFF",
          "secondary":"#194294",
-         "hint":"#0062FF",
+         "hint":"#CFB533",
          "disabled":"#CDCDCD"
       }
    },
